@@ -1,2 +1,2 @@
 # Calcualtor-test
-Simple Calculator for js and html , css all t
+Simple Calculator for js and html , css 
